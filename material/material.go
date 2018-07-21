@@ -7,8 +7,8 @@
 package material
 
 import (
-	"github.com/g3n/engine/gls"
-	"github.com/g3n/engine/texture"
+	"github.com/mojachieee/engine/gls"
+	"github.com/mojachieee/engine/texture"
 )
 
 // Side represents the material's visible side(s)

@@ -7,9 +7,9 @@ package light
 import (
 	"unsafe"
 
-	"github.com/g3n/engine/core"
-	"github.com/g3n/engine/gls"
-	"github.com/g3n/engine/math32"
+	"github.com/mojachieee/engine/core"
+	"github.com/mojachieee/engine/gls"
+	"github.com/mojachieee/engine/math32"
 )
 
 // Directional represents a directional, positionless light

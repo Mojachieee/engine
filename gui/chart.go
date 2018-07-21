@@ -6,13 +6,13 @@ package gui
 
 import (
 	"fmt"
-	"github.com/g3n/engine/core"
-	"github.com/g3n/engine/geometry"
-	"github.com/g3n/engine/gls"
-	"github.com/g3n/engine/graphic"
-	"github.com/g3n/engine/material"
-	"github.com/g3n/engine/math32"
-	"github.com/g3n/engine/renderer/shaders"
+	"github.com/mojachieee/engine/core"
+	"github.com/mojachieee/engine/geometry"
+	"github.com/mojachieee/engine/gls"
+	"github.com/mojachieee/engine/graphic"
+	"github.com/mojachieee/engine/material"
+	"github.com/mojachieee/engine/math32"
+	"github.com/mojachieee/engine/renderer/shaders"
 	"math"
 )
 

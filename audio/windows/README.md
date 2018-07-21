@@ -9,7 +9,7 @@ The G3N engine audio support currently depends on the following external librari
 
 These libraries are easily installed in Linux systems using the distribution package manager.
 
-For compiling `G3N` for windows, the directory `<GOPATH>/src/github.com/g3n/engine/audio/windows`
+For compiling `G3N` for windows, the directory `<GOPATH>/src/github.com/mojachieee/engine/audio/windows`
 contains the sources of these libraries, and the subdirectory `bin` contains compiled `dlls`,
 used during the link process. For running an application which uses `G3N`, you will need
 to copy these dlls to the directory from which will run your application.

@@ -5,7 +5,7 @@
 // Package gltf
 package gltf
 
-import "github.com/g3n/engine/core"
+import "github.com/mojachieee/engine/core"
 
 // GLTF is the root object for a glTF asset.
 type GLTF struct {

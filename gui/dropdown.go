@@ -5,8 +5,8 @@
 package gui
 
 import (
-	"github.com/g3n/engine/gui/assets/icon"
-	"github.com/g3n/engine/window"
+	"github.com/mojachieee/engine/gui/assets/icon"
+	"github.com/mojachieee/engine/window"
 )
 
 // DropDown represents a dropdown GUI element.

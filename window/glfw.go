@@ -7,7 +7,7 @@ package window
 import (
 	"runtime"
 
-	"github.com/g3n/engine/core"
+	"github.com/mojachieee/engine/core"
 	"github.com/go-gl/glfw/v3.2/glfw"
 )
 

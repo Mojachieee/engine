@@ -5,10 +5,10 @@
 package object
 
 import (
-	"github.com/g3n/engine/graphic"
-	"github.com/g3n/engine/math32"
-	"github.com/g3n/engine/material"
-	"github.com/g3n/engine/experimental/physics/shape"
+	"github.com/mojachieee/engine/graphic"
+	"github.com/mojachieee/engine/math32"
+	"github.com/mojachieee/engine/material"
+	"github.com/mojachieee/engine/experimental/physics/shape"
 )
 
 // Body represents a physics-driven body.

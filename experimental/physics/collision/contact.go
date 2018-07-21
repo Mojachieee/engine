@@ -5,7 +5,7 @@
 // Package collision implements collision related algorithms and data structures.
 package collision
 
-import "github.com/g3n/engine/math32"
+import "github.com/mojachieee/engine/math32"
 
 // Contact describes a contact point, normal, and depth.
 type Contact struct {

@@ -5,10 +5,10 @@
 package graphic
 
 import (
-	"github.com/g3n/engine/geometry"
-	"github.com/g3n/engine/gls"
-	"github.com/g3n/engine/material"
-	"github.com/g3n/engine/math32"
+	"github.com/mojachieee/engine/geometry"
+	"github.com/mojachieee/engine/gls"
+	"github.com/mojachieee/engine/material"
+	"github.com/mojachieee/engine/math32"
 )
 
 // AxisHelper is the visual representation of the three axes
