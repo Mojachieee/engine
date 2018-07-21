@@ -455,7 +455,7 @@ func (app *Application) Run() error {
 		app.ProcessTimers()
 
 		// Dispatch before render event
-		app.Dispatch(OnBeforeRender, nil)
+		app.Dispatch(OnBeforeRender, app.frameDelta)
 
 		// Renders the current scene and/or gui
 		rendered, err := app.renderer.Render(app.camera)
@@ -471,7 +471,7 @@ func (app *Application) Run() error {
 		}
 
 		// Dispatch after render event
-		app.Dispatch(OnAfterRender, nil)
+		app.Dispatch(OnAfterRender, app.frameDelta)
 
 		// Controls the frame rate
 		app.frameRater.Wait()
